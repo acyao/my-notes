@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/my-notes/blog</id>
+    <title>Acyao Blog</title>
+    <updated>2024-07-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/my-notes/blog"/>
+    <subtitle>Acyao Blog</subtitle>
+    <icon>https://github.com/my-notes/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://github.com/my-notes/blog/welcome-post</id>
+        <link href="https://github.com/my-notes/blog/welcome-post"/>
+        <updated>2024-07-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to my page.]]></summary>
+        <content type="html"><![CDATA[<p>Hello and welcome to my page.</p>
+<p>This is my learning notes and blog page.</p>
+<p>I’ve built this static learning notes and blog page using Docusaurus.</p>]]></content>
+        <author>
+            <name>Acyao</name>
+            <uri>https://github.com/acyao</uri>
+        </author>
+        <category label="hi" term="hi"/>
+        <category label="docusaurusm" term="docusaurusm"/>
+        <category label="welcome" term="welcome"/>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_notes=self.webpackChunkmy_notes||[]).push([[391],{3579:e=>{e.exports=JSON.parse('{"tags":[{"label":"hi","permalink":"/my-notes/blog/tags/hi","count":1},{"label":"docusaurusm","permalink":"/my-notes/blog/tags/docusaurusm","count":1},{"label":"welcome","permalink":"/my-notes/blog/tags/welcome","count":1}]}')}}]);

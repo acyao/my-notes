@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_notes=self.webpackChunkmy_notes||[]).push([[819],{6719:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Coding","description":"Coding Notes","slug":"/category/coding","permalink":"/my-notes/docs/category/coding","sidebar":"noteSidebar","navigation":{"next":{"title":"C#","permalink":"/my-notes/docs/category/c"}}}}')}}]);
