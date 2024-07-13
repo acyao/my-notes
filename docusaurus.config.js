@@ -22,6 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'acyao', // Usually your GitHub org/user name.
   projectName: 'my-notes', // Usually your repo name.
+  trailingSlash: false,
   deploymentBranch: "gh-pages",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
