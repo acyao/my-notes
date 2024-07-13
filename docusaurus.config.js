@@ -81,7 +81,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'right'},
           {
-            href: 'https://github.com/acyao/acyao.github.io',
+            href: 'https://github.com/acyao/my-notes',
             label: 'GitHub',
             position: 'right',
           },

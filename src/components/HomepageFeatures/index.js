@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        <a href='http://localhost:3000/docs/category/coding'>My Learning Notes</a>
+        <a href='https://acyao.github.io/my-notes/docs/category/coding'>My Learning Notes</a>
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        <a href='http://localhost:3000/blog'>My Blog</a>
+        <a href='https://acyao.github.io/my-notes/blog'>My Blog</a>
       </>
     ),
   }
