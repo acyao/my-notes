@@ -10,7 +10,7 @@ Here is the example `System.Security.Cryptography` for encryption and decryption
 
 ### Encryption:
 
-```javascript
+```csharp
 using (Aes aesAlg = Aes.Create())
 {
     string inputFilePath = "Your Input File Path";
@@ -38,7 +38,7 @@ using (Aes aesAlg = Aes.Create())
 
 ### Decryption:
 
-```javascript
+```csharp
 byte[] encryptedBytesWithIV = File.ReadAllBytes("Your Target File Path");
 using (Aes aesAlg = Aes.Create())
 {

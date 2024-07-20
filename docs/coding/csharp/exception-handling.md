@@ -13,7 +13,7 @@ In C#, exception handling is done using `try`, `catch`, `finally`, and `throw` s
 
 
 
-```c#
+```csharp
 try
 {
 

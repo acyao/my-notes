@@ -8,7 +8,7 @@ Manage a block of code as single transaction.
 
 #### Example
 
-```c#
+```csharp
 //Begin transaction scope
 using (TransactionScope scope = new TransactionScope())
 {
@@ -23,7 +23,7 @@ We can set a timeout for `TransactionScope`. If the transaction is not completed
 
 #### Example with timeout
 
-```c#
+```csharp
 // Begin transaction scope with the specified timeout
 using (TransactionScope scope = new TransactionScope(TransactionScopeOption.Required, new TimeSpan(0, 10, 0)))
 {
