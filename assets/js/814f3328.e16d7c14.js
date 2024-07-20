@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_notes=self.webpackChunkmy_notes||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/my-notes/blog/welcome-post","unlisted":false}]}')}}]);
