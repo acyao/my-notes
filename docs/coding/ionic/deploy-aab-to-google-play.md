@@ -1,7 +1,6 @@
 ---
-sidebar_position: 5
+sidebar_position: 2
 ---
-
 # Steps to deploy AAB to Google Play
 
 1. First need to build

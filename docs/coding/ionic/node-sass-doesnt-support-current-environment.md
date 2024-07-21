@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Node Sass does not yet support your current environment: Windows 64-bit with Unsupported runtime (115)
 
 ## Issue Faced:

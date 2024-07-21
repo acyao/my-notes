@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Failed to find 'ANDROID_SDK_ROOT' environment variable
 
 ## Issue Faced:

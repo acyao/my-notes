@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # ionic.ps1 cannot be loaded because running scripts is disabled on this system
 
 ## Issue Faced:
